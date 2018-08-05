@@ -47,7 +47,8 @@ h2{
 }
 h3{
 	color:  #56bc94;
-	margin-bottom: 15%
+	margin-bottom: 15%;
+	margin-left: 0%;
 }
 #container{
 	flex-direction: column;
@@ -91,11 +92,9 @@ p{
 	margin-top: 15%;
 }
 .icons{
-    display: inline-flex;
     justify-content: flex-start;
 }
 .copyright{
-	display: inline-flex;
 	justify-content: flex-end;
 }
 
@@ -134,6 +133,9 @@ background-position: center;
 	padding-bottom: 5%;
 	padding-right: 15%;
 	padding-left: 15%;
+}
+h3{
+	
 }
 .box {
 	margin:5%;
